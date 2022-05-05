@@ -1,0 +1,1 @@
+cd proxy && ./xmrig2xdag -c config.json
